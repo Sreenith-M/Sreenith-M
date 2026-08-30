@@ -12,13 +12,13 @@ I build full-stack AI applications — from LLM agents and multi-agent systems t
  
 ## 🚀 Projects
  
-**[HireMate](#) — AI Voice Interview Simulation Platform**
+**[HireMate] — AI Voice Interview Simulation Platform**
 Full-stack AI platform for resume-based mock interviews: AI-generated questions, speech-to-text, semantic answer evaluation, role-specific scoring, and automated feedback.
  
-**[SowSmart AI](#) — Crop Yield Recommendation & Optimization**
+**[SowSmart AI] — Crop Yield Recommendation & Optimization**
 Multilingual AI platform for crop yield prediction and farming assistance, combining text, image, and voice interaction with a React frontend and API-driven backend.
  
-**[Council of Agents](#) — Multi-Agent Decision Intelligence System**
+**[Council of Agents] — Multi-Agent Decision Intelligence System**
 Multi-agent system for collaborative decision-making, using dynamic relational memory with proposal, critique, negotiation, and consensus mechanisms between agents.
  
 > Update the links above once these repos are public — right now they point nowhere, which is worse than not linking them.
