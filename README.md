@@ -1,55 +1,51 @@
-# Hi, I'm Sreenith 👋
- 
-B.E. AI & Machine Learning student (2023–2027) at MVSR Engineering College, Hyderabad — currently working as an **AI Engineer Intern** at Algorithm Aliens, building AI/ML features for a real-world SaaS product.
- 
-I build full-stack AI applications — from LLM agents and multi-agent systems to voice interfaces and applied ML pipelines.
- 
-- 🎓 CGPA: 9.17/10 (through Sem VI)
-- 💼 AI Engineer Intern @ Algorithm Aliens Pvt. Ltd. (Aug 2025 – Present)
-- 🌱 Currently working with LangChain, LangGraph, and multi-agent architectures
-- 📫 sreenithindia18@gmail.com · [LinkedIn](https://linkedin.com/in/sreenith-madabhushi-565356291)
+### AI Engineer building LLM-powered products — agents, RAG, voice AI, and fine-tuned models that ship.
+
+# Sreenith Madabhushi
+
+I build things with LLMs, not just prompts. Agentic systems, fine-tuned models, RAG pipelines, voice interfaces — I care about what actually works in production, not what looks good in a notebook.
+
+Right now I'm an **AI Engineer Intern at Algorithm Aliens**, shipping AI features inside a real SaaS product. Before that — three projects that taught me more than any course did.
+
 ---
- 
-## 🚀 Projects
- 
-**[HireMate] — AI Voice Interview Simulation Platform**
-Full-stack AI platform for resume-based mock interviews: AI-generated questions, speech-to-text, semantic answer evaluation, role-specific scoring, and automated feedback.
- 
-**[SowSmart AI] — Crop Yield Recommendation & Optimization**
-Multilingual AI platform for crop yield prediction and farming assistance, combining text, image, and voice interaction with a React frontend and API-driven backend.
- 
-**[Council of Agents] — Multi-Agent Decision Intelligence System**
-Multi-agent system for collaborative decision-making, using dynamic relational memory with proposal, critique, negotiation, and consensus mechanisms between agents.
- 
-> Update the links above once these repos are public — right now they point nowhere, which is worse than not linking them.
- 
+
+### ⚡ Best work: HireMate
+
+An AI voice interview platform that actually interviews you — not a quiz app.
+
+It reads your resume, generates role-specific questions, runs the interview by voice (speech-to-text both ways), semantically evaluates your answers against what a real interviewer would look for, and scores you with actionable feedback. Full stack — frontend, backend, and the AI pipeline stitching it together.
+
+`[(https://github.com/Sreenith-M/HireMate-AI)]`
+
 ---
- 
-## 🛠️ Tech Stack
- 
-**Languages:** Python · Java · C · SQL
- 
-**AI/ML:** PyTorch · TensorFlow · Scikit-learn · Hugging Face Transformers · OpenCV · LangChain · LangGraph
- 
-**Data:** Pandas · NumPy · Matplotlib · Seaborn · Pydantic · MiniLM Embeddings
- 
-**Databases:** PostgreSQL · SQL Server · MongoDB · Chroma DB
- 
-**Backend/Tools:** FastAPI · Streamlit · Git & GitHub · Jupyter · Google Colab · Anaconda
- 
+
+### 🧠 Also built
+
+**Council of Agents** — a multi-agent decision system where AI agents actually argue with each other: propose, critique, negotiate, and reach consensus using dynamic relational memory. Not a single-agent wrapper — real multi-agent coordination.
+
+**SowSmart AI** — multilingual crop yield prediction and farming assistant. Text, image, and voice input, React frontend, API-driven backend. Built for people who don't speak "tech."
+
 ---
- 
-## 📜 Certifications
- 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — Oracle (2025)
-- Database Programming with SQL — Oracle (2025)
-- Java Programming — Oracle (2025)
-- Generative AI — LinkedIn & Microsoft (2024)
-- Programming Essentials in Python — Cisco (2024)
-- Programming Essentials in C — Cisco (2024)
-- Google AI-ML Internship — AICTE (2025)
+
+### 🔧 What I work with
+
+**LLMs & Agents** — LangChain · LangGraph · Hugging Face Transformers · fine-tuning · RAG · Chroma DB · MiniLM embeddings
+
+**ML/DL** — PyTorch · TensorFlow · Scikit-learn · OpenCV
+
+**Backend & Data** — Python · FastAPI · PostgreSQL · MongoDB · SQL Server
+
+**Also comfortable in** — Java · C · SQL · Streamlit · Git
+
 ---
- 
-## 📫 Reach me
- 
-[LinkedIn](https://linkedin.com/in/sreenith-madabhushi-565356291) · sreenithindia18@gmail.com
+
+### 🌱 Currently
+
+Building AI-powered SaaS features at Algorithm Aliens, and going deeper on fine-tuning and agentic architectures on the side. Always down to talk about LLM engineering, agent design, or interesting problems worth solving.
+
+---
+
+### 📬 Let's talk
+
+If you're building something with LLMs — or hiring someone who does — reach out.
+
+**[LinkedIn](https://linkedin.com/in/sreenith-madabhushi-565356291)** · sreenithindia18@gmail.com
